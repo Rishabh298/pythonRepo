@@ -9,7 +9,7 @@ def read_root():
     return {"data": ""}
 
 @app.get("/hello")
-def read_root():
+def helloWorld():
     return {"data": "helloworld"}
 
 @app.get("/findHypotenuse")
