@@ -48,3 +48,20 @@
 #             oList[i], oList[j] = oList[j],oList[i]
  
 # print("Sorted List", oList)
+
+
+#6.Find the max and min no in the list without using inbuilt functions
+# def findMinMaxValue():
+#    lst=[1,2,3,4,5,6,7,8,9] 
+#    minimum=1000000 
+#    maximum=-1000000 
+#    for i in lst: 
+#        if(i < minimum): 
+#            minimum=i 
+#        if(i > maximum): 
+#            maximum=i  
+  
+#    print("Minimum is:",minimum)
+#    print("Maximum is:",maximum)
+
+# findMinMaxValue()
